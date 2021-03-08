@@ -1,0 +1,31 @@
+/home/ecegridfs/a/ee364ta/grading/Prelab02/ee364g21
+
+-------------------------------------------------------------------------------
+FUNCTION             | DESCRIPTION       | COMMENTS                 | POINTS  
+-------------------------------------------------------------------------------
+DataPathValid          DataPath Check      Passed                     0/0     
+checkCommittedFiles    Python File Only    Passed                     0/0     
+getAveragePrice        Missing Symbol      Error running function     0/2.5   
+getAveragePrice        Symbol 1            Passed                     2.5/2.5 
+getAveragePrice        Symbol 2            Passed                     2.5/2.5 
+getAveragePrice        Symbol 3            Passed                     2.5/2.5 
+getBestGain            Symbol 1            Passed                     5/5     
+getBestGain            Symbol 2            Passed                     5/5     
+getBestGain            Symbol 3            Passed                     5/5     
+getCountOver           Missing Symbol      Error running function     0/2.5   
+getCountOver           Symbol 1            Passed                     2.5/2.5 
+getCountOver           Symbol 2            Passed                     2.5/2.5 
+getCountOver           Symbol 3            Passed                     2.5/2.5 
+getGainPercent         Missing Symbol      Error running function     0/5     
+getGainPercent         Symbol 1            Passed                     5/5     
+getGainPercent         Symbol 2            Passed                     5/5     
+getMaxDifference       Missing Symbol      Error running function     0/5     
+getMaxDifference       Symbol 1            Passed                     5/5     
+getMaxDifference       Symbol 2            Passed                     5/5     
+getVolumeSum           Bad Dates           Passed                     2.5/2.5 
+getVolumeSum           Missing Symbol      Error running function     0/2.5   
+getVolumeSum           Symbol 1            Passed                     5/5     
+getVolumeSum           Symbol 2            Passed                     5/5     
+-------------------------------------------------------------------------------
+
+Total Score = 62.5

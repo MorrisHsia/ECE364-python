@@ -1,0 +1,70 @@
+/home/ecegridfs/a/ee364ta/grading/Prelab06/ee364g21
+
+----------------------------------------------------------------------------------
+FUNCTION                | DESCRIPTION       | COMMENTS                 | POINTS  
+----------------------------------------------------------------------------------
+DataPathInValid           DataPath Check      FAILED                     0/-5    
+anyInvalidFunctionUsed    capitalize          Passed                     0/0     
+anyInvalidFunctionUsed    casefold            Passed                     0/0     
+anyInvalidFunctionUsed    center              Passed                     0/0     
+anyInvalidFunctionUsed    count               Passed                     0/0     
+anyInvalidFunctionUsed    encode              Passed                     0/0     
+anyInvalidFunctionUsed    endswith            Passed                     0/0     
+anyInvalidFunctionUsed    expandtabs          Passed                     0/0     
+anyInvalidFunctionUsed    find                Passed                     0/0     
+anyInvalidFunctionUsed    format_map          Passed                     0/0     
+anyInvalidFunctionUsed    index               Passed                     0/0     
+anyInvalidFunctionUsed    isalnum             Passed                     0/0     
+anyInvalidFunctionUsed    isalpha             Passed                     0/0     
+anyInvalidFunctionUsed    isdecimal           Passed                     0/0     
+anyInvalidFunctionUsed    isdigit             Passed                     0/0     
+anyInvalidFunctionUsed    isidentifier        Passed                     0/0     
+anyInvalidFunctionUsed    islower             Passed                     0/0     
+anyInvalidFunctionUsed    isnumeric           Passed                     0/0     
+anyInvalidFunctionUsed    isprintable         Passed                     0/0     
+anyInvalidFunctionUsed    isspace             Passed                     0/0     
+anyInvalidFunctionUsed    istitle             Passed                     0/0     
+anyInvalidFunctionUsed    isupper             Passed                     0/0     
+anyInvalidFunctionUsed    join                FAILED                     0/0     
+anyInvalidFunctionUsed    ljust               Passed                     0/0     
+anyInvalidFunctionUsed    lower               Passed                     0/0     
+anyInvalidFunctionUsed    lstrip              Passed                     0/0     
+anyInvalidFunctionUsed    maketrans           Passed                     0/0     
+anyInvalidFunctionUsed    partition           Passed                     0/0     
+anyInvalidFunctionUsed    replace             Passed                     0/0     
+anyInvalidFunctionUsed    rfind               Passed                     0/0     
+anyInvalidFunctionUsed    rindex              Passed                     0/0     
+anyInvalidFunctionUsed    rjust               Passed                     0/0     
+anyInvalidFunctionUsed    rpartition          Passed                     0/0     
+anyInvalidFunctionUsed    rsplit              Passed                     0/0     
+anyInvalidFunctionUsed    rstrip              Passed                     0/0     
+anyInvalidFunctionUsed    split               Passed                     0/0     
+anyInvalidFunctionUsed    splitlines          Passed                     0/0     
+anyInvalidFunctionUsed    startswith          Passed                     0/0     
+anyInvalidFunctionUsed    strip               Passed                     0/0     
+anyInvalidFunctionUsed    sub                 Passed                     0/0     
+anyInvalidFunctionUsed    subn                Passed                     0/0     
+anyInvalidFunctionUsed    swapcase            Passed                     0/0     
+anyInvalidFunctionUsed    title               Passed                     0/0     
+anyInvalidFunctionUsed    translate           Passed                     0/0     
+anyInvalidFunctionUsed    upper               Passed                     0/0     
+anyInvalidFunctionUsed    zfill               Passed                     0/0     
+checkCommittedFiles       Python File Only    Passed                     0/0     
+getCompleteEntries                            FAILED                     0/10    
+getEmployeesWithIDs                           Passed                     10/10   
+getEmployeesWithPhones                        FAILED                     0/10    
+getEmployeesWithStates                        Passed                     10/10   
+getEmployeesWithoutIDs                        FAILED                     0/5     
+getQueryParameters                            Passed                     5/5     
+getRealMAC                Bad 1               FAILED                     0/2     
+getRealMAC                Bad 2               Error running function     0/2     
+getRealMAC                Good 1              Passed                     2/2     
+getRealMAC                Good 2              Passed                     2/2     
+getRealMAC                Good 3              Passed                     2/2     
+getRejectedEntries                            FAILED                     0/10    
+getSpecial                                    Passed                     5/5     
+getUrlParts                                   Passed                     5/5     
+----------------------------------------------------------------------------------
+
+
+Total Score = 41.0

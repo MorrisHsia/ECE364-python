@@ -1,0 +1,10 @@
+---------------------------------------------------------------------
+getCircuitsByProject.bash: 10 pts
+getStudentsByProject.bash: 20 pts
+getCircuitsByStudent.bash: 15 pts
+getProjectsByStudent.bash: 15 pts
+getComponentUses.bash    : 10 pts
+getMoreUsedComponent.bash: 10 pts
+---------------------------------------------------------------------
+
+Total Score = 80

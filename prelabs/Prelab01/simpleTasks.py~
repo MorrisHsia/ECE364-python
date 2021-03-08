@@ -1,0 +1,29 @@
+#######################################################
+#   Author:     Tsung Lin Hsia
+#   email:      thsia@purdue.edu
+#   ID:         ee364g21
+#   Date:       01/09/2019
+#######################################################
+
+import os
+import sys
+import re
+
+
+# Module  level  Variables. (Write  this  statement  verbatim .)
+#######################################################
+DataPath = os.path.expanduser(’~ee364/DataFolder/Prelab01’)
+
+
+
+def find(pattern):
+    filename = os.path.join(DataPath, 'sequence.txt')
+	pattern = pattern.replace('X', '\d')
+    m = re.finditer(pattern ,filename)
+	return m.groups
+
+def getStreakProduct(sequence, maxSize, product)
+	l=[]
+	
+if __name__ == "__main__":
+

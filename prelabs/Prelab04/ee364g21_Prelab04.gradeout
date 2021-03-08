@@ -1,0 +1,24 @@
+/home/ecegridfs/a/ee364ta/grading/Prelab04/ee364g21
+
+--------------------------------------------------------------------------------
+FUNCTION              | DESCRIPTION       | COMMENTS                 | POINTS  
+--------------------------------------------------------------------------------
+DataPathInValid         DataPath Check      FAILED                     0/-5    
+checkCommittedFiles     Python File Only    Passed                     0/0     
+getAbsentTechs                              Passed                     10/10   
+getStrainConsumption    Virus Name 1        Passed                     5/5     
+getStrainConsumption    Virus Name 2        Passed                     5/5     
+getStrainConsumption    Virus Name 3        Passed                     5/5     
+getStrainCost           70 % Match          Passed                     5/5     
+getStrainCost           Full Match          Passed                     7/7     
+getStrainCost           Map Size            Passed                     3/3     
+getTechSpending         70 % Match          Passed                     5/5     
+getTechSpending         Full Match          Passed                     7/7     
+getTechSpending         Map Size            Passed                     3/3     
+getTechWork             Tech Name 1         Passed                     5/5     
+getTechWork             Tech Name 2         Passed                     5/5     
+getTechWork             Tech Name 3         Passed                     5/5     
+getUnusedStrains                            Passed                     10/10   
+--------------------------------------------------------------------------------
+
+Total Score = 80.0

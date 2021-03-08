@@ -1,0 +1,53 @@
+#! /bin/bash
+#######################################################
+#    Author:      Tsung Lin Hsia
+#    email:       thsia@purdue.edu
+#    ID:          ee364g21
+#    Date:        3/14/19
+#######################################################
+DataPath=~ee364/DataFolder/Prelab09
+studentfile=$DataPath/maps/students.dat
+projectfile=$DataPath/maps/projects.dat
+mapsPath=$DataPath/maps
+circuitsPath=$DataPath/circuits
+name=$1
+while read line
+do
+    LastFirst=$(echo $line | cut -d'|' -f 1)
+    LastFirst=${LastFirst::${#LastFirst}-1}
+    ID=$(echo $line | cut -d'|' -f 2)
+    ID=${ID:1:${#ID}}
+    if [[ $LastFirst = $name ]]
+    then
+	findID=$ID
+    fi
+done < $studentfile
+for file in $circuitsPath/*.dat
+do
+    while read line
+    do
+	if [[ $findID = $line ]]
+	then
+	    findFile=$file
+	    findFile=${findFile:${#findFile}-11:${#findFile}-4}
+	    findFile=${findFile::${#findFile}-4}
+	fi
+	pattern="[0-9A-Z]{8}"
+	if [[ ${#findFile}>0 ]]
+	then
+	    find=$(egrep -w $findFile $projectfile)
+	fi
+	find=$find | sort -b
+	for i in $find
+	do
+	    if [[ $i =~ $pattern.. ]]
+	    then
+		echo $i
+	    fi
+	done
+    done < $file | sort -u
+done
+
+
+
+

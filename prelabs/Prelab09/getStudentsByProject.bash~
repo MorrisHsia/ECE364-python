@@ -1,0 +1,26 @@
+#! /bin/bash
+#######################################################
+#    Author:      Tsung Lin Hsia
+#    email:       thsia@purdue.edu
+#    ID:          ee364g21
+#    Date:        3/14/19
+#######################################################
+DataPath=~ee364/DataFolder/Prelab09
+studentfile=$DataPath/maps/students.dat
+projectfile=$DataPath/maps/projects.dat
+mapsPath=$DataPath/maps
+circuitsPath=$DataPath/circuits
+inputID=$1
+while read content
+do
+    circuit=$(echo $content | cut -d' ' -f 1)
+    projectID=$(echo $content | cut -d' ' -f 2)
+    if [[ $projectID = $inputID ]]
+    then
+	file=$circuitsPath/circuit_$circuit.dat
+	pattern="[0-9]{5}-[0-9]{5}"
+	id=$(grep -1 $pattern $file)
+	echo $id
+    fi
+done < $projectfile | sort -u
+

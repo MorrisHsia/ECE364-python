@@ -1,0 +1,19 @@
+#! /bin/bash
+#######################################################
+#    Author:      Tsung Lin Hsia
+#    email:       thsia@purdue.edu
+#    ID:          ee364g21
+#    Date:        3/14/19
+#######################################################
+DataPath=~ee364/DataFolder/Prelab09
+projectPath=$DataPath/maps/projects.dat
+inputID=$1
+while read content
+do
+    circuit=$(echo $content | cut -d' ' -f 1)
+    projectID=$(echo $content | cut -d' ' -f 2)
+    if [[ $projectID = $inputID ]]
+    then
+	echo $circuit
+    fi
+done < $projectPath | sort -u

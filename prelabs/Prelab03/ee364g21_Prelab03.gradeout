@@ -1,0 +1,47 @@
+/home/ecegridfs/a/ee364ta/grading/Prelab03/ee364g21
+
+------------------------------------------------------------------------------------------
+FUNCTION                    | DESCRIPTION           | COMMENTS                 | POINTS  
+------------------------------------------------------------------------------------------
+DataPathInValid               DataPath Check          FAILED                     0/-5    
+checkCommittedFiles           Python File Only        Passed                     0/0     
+getCircuitByComponent         Component Group 1       FAILED                     0/2.5   
+getCircuitByComponent         Component Group 2       FAILED                     0/2.5   
+getCircuitByStudent           Student Group 1         Passed                     2.5/2.5 
+getCircuitByStudent           Student Group 2         Passed                     2.5/2.5 
+getCircuitByStudent           Student Group 3         Passed                     2.5/2.5 
+getCircuitByStudent           Student Group 4         Passed                     2.5/2.5 
+getCommonByProject            Missing Project ID 1    Passed                     1/1     
+getCommonByProject            Missing Project ID 2    Passed                     1/1     
+getCommonByProject            Project Pair 1          Passed                     1.5/1.5 
+getCommonByProject            Project Pair 2          Passed                     1.5/1.5 
+getComponentCountByProject    Missing Project ID      Passed                     2/2     
+getComponentCountByProject    Project ID 1            Passed                     2/2     
+getComponentCountByProject    Project ID 2            Passed                     2/2     
+getComponentCountByProject    Project ID 3            Passed                     2/2     
+getComponentCountByProject    Project ID 4            Passed                     2/2     
+getComponentCountByStudent    Missing Student         Passed                     2/2     
+getComponentCountByStudent    Student 1               Passed                     2/2     
+getComponentCountByStudent    Student 2               Passed                     2/2     
+getComponentCountByStudent    Student 3               Passed                     2/2     
+getComponentCountByStudent    Student 4               Passed                     2/2     
+getComponentReport            Component Group 1       FAILED                     0/2.5   
+getComponentReport            Component Group 2       FAILED                     0/2.5   
+getCostOfProjects                                     Passed                     10/10   
+getParticipationByProject     Missing Project ID      Passed                     1/1     
+getParticipationByProject     Project ID 1            FAILED                     0/1     
+getParticipationByProject     Project ID 2            FAILED                     0/1     
+getParticipationByProject     Project ID 3            FAILED                     0/1     
+getParticipationByProject     Project ID 4            FAILED                     0/1     
+getParticipationByStudent     Missing Student         Passed                     2/2     
+getParticipationByStudent     Student 1               Passed                     2/2     
+getParticipationByStudent     Student 2               Passed                     2/2     
+getParticipationByStudent     Student 3               Passed                     2/2     
+getParticipationByStudent     Student 4               Passed                     2/2     
+getProjectByComponent         Component Group 1       Passed                     2.5/2.5 
+getProjectByComponent         Component Group 2       Passed                     2.5/2.5 
+getProjectByComponent         Component Group 3       Passed                     2.5/2.5 
+getProjectByComponent         Component Group 4       Passed                     2.5/2.5 
+------------------------------------------------------------------------------------------
+
+Total Score = 66.0

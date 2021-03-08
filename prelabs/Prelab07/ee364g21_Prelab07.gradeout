@@ -1,0 +1,66 @@
+/home/ecegridfs/a/ee364ta/grading/Prelab07/ee364g21
+
+-------------------------------------------------------------------------------------
+FUNCTION             | DESCRIPTION             | COMMENTS                 | POINTS  
+-------------------------------------------------------------------------------------
+Capstone               Inheritance               Passed                     2/2     
+Capstone               Normal Instance           Error running function     0/2     
+Capstone               Senior Check 1            Passed                     2/2     
+Capstone               Senior Check 2            Error running function     0/2     
+Circuit                Bad Input                 Passed                     2/2     
+Circuit                Cost Calculation          Passed                     2/2     
+Circuit                Normal Instance           Passed                     2/2     
+Circuit                String Representation     FAILED                     0/2     
+Circuit_comparisons    Bad Equality              Passed                     1/1     
+Circuit_comparisons    Bad Greater Than          Passed                     1/1     
+Circuit_comparisons    Bad Less Than             Passed                     1/1     
+Circuit_comparisons    Equality                  Passed                     1/1     
+Circuit_comparisons    Greater Than              Passed                     1/1     
+Circuit_comparisons    Less Than                 Passed                     1/1     
+Circuit_getByType      Bad Input                 Passed                     1/1     
+Circuit_getByType      Type 1                    Passed                     4/4     
+Circuit_getByType      Type 2                    Passed                     4/4     
+Circuit_operators      Addition 1                FAILED                     0/1     
+Circuit_operators      Addition 2                Error running function     0/1     
+Circuit_operators      Addition 3                FAILED                     0/1     
+Circuit_operators      Bad Addition              Passed                     1/1     
+Circuit_operators      Bad Subtraction           Passed                     1/1     
+Circuit_operators      Membership Check 1        FAILED                     0/1     
+Circuit_operators      Membership Check 2        Passed                     1/1     
+Circuit_operators      Membership Error          Passed                     1/1     
+Circuit_operators      Subtraction 1             FAILED                     0/1     
+Circuit_operators      Subtraction 2             FAILED                     0/1     
+Component              Bad Initializer           Passed                     1/1     
+Component              Normal Instance           Passed                     2/2     
+Component              String Representation     FAILED                     0/2     
+Enums                  ComponentType Check       Passed                     1/1     
+Enums                  ComponentType Content     Passed                     1/1     
+Enums                  Level Check               Passed                     1/1     
+Enums                  Level Content             Passed                     1/1     
+Project                Bad Circuits              Passed                     2/2     
+Project                Bad Participants          Passed                     2/2     
+Project                Cost Check                Passed                     2/2     
+Project                Normal Instance           Passed                     2/2     
+Project                String Representation     Passed                     2/2     
+Project_operators      Addition 1                Passed                     1/1     
+Project_operators      Addition 2                FAILED                     0/1     
+Project_operators      Bad Addition              Passed                     1/1     
+Project_operators      Bad Membership            Passed                     1/1     
+Project_operators      Bad Subtraction           Passed                     1/1     
+Project_operators      Circuit Membership 1      Passed                     1/1     
+Project_operators      Circuit Membership 2      FAILED                     0/1     
+Project_operators      Component Membership 1    FAILED                     0/1     
+Project_operators      Component Membership 2    Passed                     1/1     
+Project_operators      Getter 1                  Passed                     1/1     
+Project_operators      Getter 2                  Passed                     1/1     
+Project_operators      Student Membership 1      FAILED                     0/1     
+Project_operators      Student Membership 2      Passed                     1/1     
+Project_operators      Subtraction 1             FAILED                     0/1     
+Project_operators      Subtraction 2             FAILED                     0/1     
+Student                Bad Initializer           Passed                     1/1     
+Student                Normal Instance           Passed                     2/2     
+Student                String Representation     Passed                     2/2     
+checkCommittedFiles    Python File Only          Passed                     0/0     
+-------------------------------------------------------------------------------------
+
+Total Score = 60.0

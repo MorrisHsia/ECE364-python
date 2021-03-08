@@ -1,0 +1,69 @@
+/home/ecegridfs/a/ee364ta/grading/Prelab08/ee364g21
+
+None
+None
+None
+---------------------------------------------------------------------------------------------------
+FUNCTION                | DESCRIPTION                        | COMMENTS                 | POINTS  
+---------------------------------------------------------------------------------------------------
+Data                      Empty Input                          Passed                     1/1     
+Data                      Inheritance                          Passed                     1/1     
+Data                      List Input                           Passed                     1/1     
+DataClassEnum             Attribute Check                      Passed                     1/1     
+DataClassEnum             Enum Presence                        Passed                     1/1     
+DataClassEnum             Type Check                           Passed                     1/1     
+DataClassifier            Classification 1                     Passed                     1/1     
+DataClassifier            Classification 2                     Passed                     1/1     
+DataClassifier            Empty Initializer                    Passed                     1/1     
+DataClassifier            Invalid Initializer                  Passed                     1/1     
+DataCollectionMethods     'append' Type Check                  Passed                     1/1     
+DataCollectionMethods     'append' Usage                       Passed                     1/1     
+DataCollectionMethods     'count' Type Check                   Passed                     1/1     
+DataCollectionMethods     'count' Usage                        Passed                     1/1     
+DataCollectionMethods     'extend' Type Check                  Passed                     1/1     
+DataCollectionMethods     'extend' Usage                       Passed                     1/1     
+DataCollectionMethods     'index' Type Check                   Passed                     1/1     
+DataCollectionMethods     'index' Usage                        Passed                     1/1     
+DataCollectionMethods     'insert' Type Check                  Passed                     1/1     
+DataCollectionMethods     'insert' Usage                       Error running function     0/1     
+DataCollectionMethods     'remove' Type Check                  Passed                     1/1     
+DataCollectionMethods     'remove' Usage                       Passed                     1/1     
+DataCollectionMethods     'setitem' Type Check                 Passed                     1/1     
+DataCollectionMethods     'setitem' Usage                      Passed                     1/1     
+DataMethods               Compute Bounds                       Passed                     1/1     
+DataMethods               Mean Value                           Passed                     1/1     
+Datum                     correct input                        Passed                     1/1     
+Datum                     integer input                        Passed                     1/1     
+Datum                     string representation                FAILED                     0/1     
+DatumCollectionMethods    Element Count                        Passed                     1/1     
+DatumCollectionMethods    Iterator                             Passed                     1/1     
+DatumCollectionMethods    Membership Check 1                   Passed                     1/1     
+DatumCollectionMethods    Membership Check 2                   Passed                     1/1     
+DatumCollectionMethods    Membership Check 3                   Passed                     1/1     
+DatumComparison           Equality                             Passed                     2/2     
+DatumComparison           Equality Identity                    Passed                     2/2     
+DatumComparison           Greater Than                         Passed                     2/2     
+DatumComparison           Greater Than or Equal                Passed                     2/2     
+DatumComparison           Inequality                           Passed                     2/2     
+DatumComparison           Inequality Identity                  Passed                     2/2     
+DatumComparison           Less Than                            Passed                     2/2     
+DatumComparison           Less Than or Equal                   Passed                     2/2     
+DatumOperators            Addition                             Passed                     2/2     
+DatumOperators            Float Addition                       Error running function     0/2     
+DatumOperators            Float Addition Immutability          Error running function     0/2     
+DatumOperators            Float Division                       Passed                     2/2     
+DatumOperators            Float Division Immutability          Passed                     2/2     
+DatumOperators            Float Multiplication                 Passed                     2/2     
+DatumOperators            Float Multiplication Immutability    Passed                     2/2     
+DatumOperators            Float Subtraction                    Error running function     0/2     
+DatumOperators            Float Subtraction Immutability       Error running function     0/2     
+DatumOperators            Indexing                             Passed                     2/2     
+DatumOperators            Invalid Operation                    Passed                     2/2     
+DatumOperators            Negation                             Passed                     2/2     
+DatumOperators            Reversed Float Addition              Error running function     0/2     
+DatumOperators            Reversed Float Multiplication        Passed                     2/2     
+DatumOperators            Subtraction                          Passed                     2/2     
+checkCommittedFiles       Python File Only                     Passed                     0/0     
+---------------------------------------------------------------------------------------------------
+
+Total Score = 68.0

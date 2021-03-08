@@ -1,0 +1,29 @@
+/home/ecegridfs/a/ee364ta/grading/Lab10/ee364g21
+
+-------------------------------------------------------------------------------
+FUNCTION             | DESCRIPTION       | COMMENTS                 | POINTS  
+-------------------------------------------------------------------------------
+DataPathInValid        DataPath Check      FAILED                     0/-5    
+Package                                    Error running function     0/15    
+PackageGroup                               Error running function     0/20    
+checkCommittedFiles    Python File Only    FAILED                     0/0     
+getCost                Sample 1            Passed                     5/5     
+getCost                Sample 2            Passed                     5/5     
+getNumberPattern       Matches             FAILED                     0/15    
+getTagPattern          Invalid 1           Passed                     2/2     
+getTagPattern          Invalid 2           Passed                     2/2     
+getTagPattern          Valid 1             Error running function     0/2     
+getTagPattern          Valid 2             Error running function     0/2     
+getTagPattern          Valid 3             Error running function     0/2     
+loadPackages           Company 1           Error running function     0/1     
+loadPackages           Company 2           Error running function     0/1     
+loadPackages           Company 3           Error running function     0/1     
+loadPackages           Company 4           Error running function     0/1     
+loadPackages           Company 5           Error running function     0/1     
+loadPackages           List Types          Error running function     0/2.5   
+loadPackages           Names               Error running function     0/2.5   
+loadPackages           Package Counts      Error running function     0/2.5   
+loadPackages           Sorted Names        Error running function     0/2.5   
+-------------------------------------------------------------------------------
+
+Total Score = 14.0
